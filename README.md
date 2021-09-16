@@ -6,3 +6,6 @@ I understand how to effectively use more complicated variables now, while loops,
 At this point, I am beginning to become more comfortable with basic javascript and look forward for the next couple of days to master these basics even more by reviewing the coursework, reviewing our bootcamp videos, reading Javascript books, and watching Java Youtube videos.
 
 It completes all the technical acceptance criteria, the deployment, application quality, and repository quality and hopefully to an A quality.
+
+Link here: https://ttrulock1.github.io/homework-three/
+
