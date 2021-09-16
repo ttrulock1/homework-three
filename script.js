@@ -1,7 +1,7 @@
 // Assignment Code
 var generateBtn = document.querySelector("#generate");
 
-// Write password to the #password input
+// Here are the function generator and the query selectors used.
 function writePassword() {
   var password = generatePassword();
   var passwordText = document.querySelector("#password");
@@ -9,6 +9,8 @@ function writePassword() {
   passwordText.value = password;
 
 }
+// here I created the variables and 
+// beginning on line 19 begins the while loop complete with if statements.
 function generatePassword(){
   var lowercase= "abcdefghijklmnopqrstuvxyz" 
   var uppercase= lowercase.toUpperCase()
@@ -40,5 +42,5 @@ function generatePassword(){
   }
   return password
 }
-// Add event listener to generate button
+
 generateBtn.addEventListener("click", writePassword);
